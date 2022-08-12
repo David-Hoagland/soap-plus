@@ -1,5 +1,4 @@
 <?php namespace DCarbone\SoapPlus;
-
 /*
    Copyright 2012-2016 Daniel Carbone (daniel.p.carbone@gmail.com)
 
